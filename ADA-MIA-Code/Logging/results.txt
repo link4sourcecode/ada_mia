@@ -1,0 +1,6 @@
+---------------------------------
+current-cycle ADA_MIA best-Accuracy  is: 0.56
+current-cycle ADA_MIA best-Precision is: 0.6
+current-cycle ADA_MIA best-Recall    is: 0.36
+current-cycle ADA_MIA best-F1-Score  is: 0.45
+---------------------------------
